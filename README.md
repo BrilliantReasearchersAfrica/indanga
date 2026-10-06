@@ -1,2 +1,2 @@
 # indanga
-Isanga Homes
+Indanga Homes
